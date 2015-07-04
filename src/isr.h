@@ -1,10 +1,3 @@
-/* 
- * File:   isr.h
- * Author: Kadir
- *
- * Created on October 2, 2014, 1:42 PM
- */
-
 #ifndef ISR_H
 #define	ISR_H
 
