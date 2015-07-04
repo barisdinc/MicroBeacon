@@ -5,4 +5,5 @@ The schematics and pcb files created using Eagle are ahred on another github rep
 Project is developed for TAMSAT/AMSAT-TR the Turkish Amateur Satellite Research organisation.
 Original work started by Kadir using the LPC/ARM architecture and ADF7012.
 
+Another project will start for ANTRAK (http://www.antrak.org.tr) which will be a pocket APRS transmitter (modem+transmitter) on a single micro boards..
 
