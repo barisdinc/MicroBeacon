@@ -1,3 +1,10 @@
+/* 
+ * File:   audio_tone.h
+ * Author: Kadir
+ *
+ * Created on September 21, 2014, 3:35 PM
+ */
+
 #ifndef AUDIO_TONE_H
 #define	AUDIO_TONE_H
 

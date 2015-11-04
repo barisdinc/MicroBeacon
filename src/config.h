@@ -1,3 +1,10 @@
+/* 
+ * File:   config.h
+ * Author: Kadir
+ *
+ * Created on September 21, 2014, 3:31 PM
+ */
+
 #ifndef CONFIG_H
 #define	CONFIG_H
 

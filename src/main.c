@@ -1,3 +1,10 @@
+/* 
+ * File:   main.c
+ * Author: Kadir
+ *
+ * Created on September 15, 2014, 6:55 PM
+ */
+
 #include "configuration.h"
 #include "functions.h"
 #include <math.h>

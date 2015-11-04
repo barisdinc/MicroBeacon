@@ -1,3 +1,10 @@
+/* 
+ * File:   adf7012.h
+ * Author: Kadir
+ *
+ * Created on September 21, 2014, 3:33 PM
+ */
+
 #ifndef ADF7012_H
 #define	ADF7012_H
 
