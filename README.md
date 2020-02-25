@@ -7,3 +7,7 @@ Original work started by Kadir using the LPC/ARM architecture and ADF7012.
 
 Another project will start for ANTRAK (http://www.antrak.org.tr) which will be a pocket APRS transmitter (modem+transmitter) on a single micro boards..
 
+# TODO
+- prepare documentation for compile environment
+- port to MSP or any other MCU
+- compare current consumption with alternate to ADF4021 or any other two way chip
